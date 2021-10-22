@@ -21,7 +21,7 @@ public class Menu {
 		 if(opcao==1) {
 			InsercaoVerifica.main(args);
 		 }if(opcao==2) {
-			 Emoticons.metodo();
+			 Emoticons.main(args);
 		 }if(opcao==3) {
 			 
 		 }if(opcao==4) {
