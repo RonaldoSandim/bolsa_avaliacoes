@@ -43,7 +43,4 @@ public class EstadoForm {
 	}
 	
 
-	private void converter() {
-        return new Estado();		
-	}
 }

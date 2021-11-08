@@ -30,12 +30,7 @@ public class EstadoController {
         
         }
 	
-	@PostMapping
-	public void cadastrar(@RequestBody EstadoForm  form) {
-		
-		Estado estado=form converter();
-		estadoRepository.save(estado);
-	}
+	
 
 	
 	
